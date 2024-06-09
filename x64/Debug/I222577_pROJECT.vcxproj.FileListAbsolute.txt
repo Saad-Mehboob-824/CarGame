@@ -1,0 +1,2 @@
+E:\Uni\Sem 3\DataStructures\A3 s.v\I222577_pROJECT\x64\Debug\I222577_pROJECT.exe
+E:\Uni\Sem 3\DataStructures\A3 s.v\CarGame\x64\Debug\CarGame.exe

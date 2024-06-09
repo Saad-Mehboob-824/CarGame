@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (I222577_pROJECT.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CarGame.cpp
+E:\Uni\Sem 3\DataStructures\A3 s.v\CarGame\CarGame.h(468,39): warning C4473: 'sscanf_s' : not enough arguments passed for format string
+E:\Uni\Sem 3\DataStructures\A3 s.v\CarGame\CarGame.h(468,39): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Uni\Sem 3\DataStructures\A3 s.v\CarGame\CarGame.h(468,39): message : the missing variadic argument 2 is required by format string '%c'
+E:\Uni\Sem 3\DataStructures\A3 s.v\CarGame\CarGame.h(468,39): message : this argument is used as a buffer size
+  I222577_pROJECT.vcxproj -> E:\Uni\Sem 3\DataStructures\A3 s.v\CarGame\x64\Debug\CarGame.exe
